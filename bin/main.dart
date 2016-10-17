@@ -1,3 +1,3 @@
 main(List<String> args) {
-  print('Codingame puzzles solved in Dart!');
+  print('Dart examples by codingame puzzles.');
 }
